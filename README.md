@@ -53,7 +53,8 @@
 
 
 ### Multimodal
-
+- Multimodal Machine Learning: A Survey and Taxonomy
+- 
 
 ### Few shot / Meta Learning
 

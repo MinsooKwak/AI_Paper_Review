@@ -20,10 +20,20 @@ Keyoword : `lie detector` `hallucination` `LLM`
 <!---
 3번까지 리딩 / p4부터 봐야 함
 --->
+
+### 전개
+**[ 1280개 인스턴스에 대한 Dataset ]**
+  - Dataset :WikiData와 같은 소스에서 20,000개 이상의 질문과 해당 답변 목록 작성 / 말도 안되는 질문 포함 
+  - 거짓말 유도 프롬프트(CoT) + yes/no 답
+    ![image](https://github.com/MinsooKwak/AI_Paper_Review/assets/89770691/9994a74f-1bc1-4624-b798-26ee67d2ae47)
+
+
 ### Simple Lie Detector 
-- black box lie detector를 만들고 고정되게 yes/no로 대답하는 "elicitation question" 적용 <br>
-  : LLM의 activation 비허용
 
-  **[ lie detector generalised ]**
-  ![image](https://github.com/MinsooKwak/AI_Paper_Review/assets/89770691/efce26f1-e8e5-4ff7-9f7d-b6140d471ab4)
+**[ lie detector generalised ]**
+  - lie detector가 일반화되었음
+    ![image](https://github.com/MinsooKwak/AI_Paper_Review/assets/89770691/efce26f1-e8e5-4ff7-9f7d-b6140d471ab4)
 
+**[ blackbox lie detector ]**
+  - 예/아니오 답변을 통해 진실성 또는 거짓에 대한 점수를 매기게 됨 
+    ![image](https://github.com/MinsooKwak/AI_Paper_Review/assets/89770691/eb7ab926-e70e-416e-a05c-8dc7b76921b8)

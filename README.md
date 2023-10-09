@@ -1,5 +1,16 @@
 # AI_Paper_Review
 
+### Papers 참고
+- [Microsoft Research](https://www.microsoft.com/en-us/research/project/physics-of-agi/publications/)
+- [Microsoft Research-AGI](https://www.microsoft.com/en-us/research/project/physics-of-agi/publications/)
+- [ICCV 2023 Open Access](https://openaccess.thecvf.com/ICCV2023)
+- [ICCV 2023 Papers_huggingface](https://huggingface.co/spaces/ICCV2023/ICCV2023-papers)
+
+
+
+
+
+<!---
 ### Classification
 - AlexNet
 - VGG
@@ -72,3 +83,4 @@
 
 
 ### Augmentation
+--->

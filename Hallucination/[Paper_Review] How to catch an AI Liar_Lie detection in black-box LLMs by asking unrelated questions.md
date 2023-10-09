@@ -1,4 +1,4 @@
-## How to catch an AI Liar : Lie Detetion in Black-Box LLMs by asking unrelated questions
+## How to catch an AI Liar : Lie Detetion in Black-Box LLMs by asking unrelated questions (리딩중)
 (2023.09.26)
 
 Keyoword : `lie detector` `hallucination` `LLM`
@@ -18,7 +18,7 @@ Keyoword : `lie detector` `hallucination` `LLM`
   
 ---
 <!---
-2번까지 리딩 / p4부터 봐야 함
+3번까지 리딩 / p4부터 봐야 함
 --->
 ### Simple Lie Detector 
 - black box lie detector를 만들고 고정되게 yes/no로 대답하는 "elicitation question" 적용 <br>

@@ -5,6 +5,7 @@
 - [Microsoft Research-AGI](https://www.microsoft.com/en-us/research/project/physics-of-agi/publications/)
 - [ICCV 2023 Open Access](https://openaccess.thecvf.com/ICCV2023)
 - [ICCV 2023 Papers_huggingface](https://huggingface.co/spaces/ICCV2023/ICCV2023-papers)
+- [CVPR 2023](https://www.paperdigest.org/2023/05/cvpr-2023-highlights/)
 
 
 
